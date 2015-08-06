@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Helper}
   spec.description   = %q{Write a longer description or delete this line.}
-  spec.homepage      = "Put your gem's website or public repo URL here."
+  spec.homepage      = "https://addons.heroku.com/bucketeer"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
